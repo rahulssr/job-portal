@@ -22,7 +22,7 @@ graph TD;
 
 🎥 **Demo Preview**
 
-_(Insert a link or image of the application preview)_
+[_(Insert a link or image of the application preview)_](https://job-portal-client-wine-nine.vercel.app/)
 
 ---
 
