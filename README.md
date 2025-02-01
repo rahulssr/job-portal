@@ -102,10 +102,6 @@ Open [http://localhost:3000](http://localhost:5000) in your browser.
 
 ---
 
-📸 **UI Screenshots**
-
-_(Insert relevant UI screenshots)_
-
 ---
 
 📝 **Code Snippet (Job Posting API)**
@@ -147,9 +143,5 @@ title Job Portal Activity
 
 ---
 
-📩 **Contact & Support**
-
-📧 Email: your-email@example.com  
-💬 LinkedIn: [your-profile](#)
 
 ⭐ **Star this repo if you like it!** ⭐
