@@ -47,7 +47,7 @@ graph TD;
 
 ### Setup
 ```bash
-git clone https://github.com/your-username/job-portal.git
+git clone https://github.com/rahulssr/job-portal.git
 cd job-portal
 ```
 
